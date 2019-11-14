@@ -12,5 +12,5 @@ Terjadi ERROR
 # Latihan 4
 ![Alt Text](https://github.com/damarwdsyh003/PBO-Polymorphisme/blob/master/Latihan%204.png)
 # Tugas Praktikum
-![Alt Text](https://github.com/damarwdsyh003/PBOPolymorphisme/blob/master/Tugas%20Praktikum.png)
+![Alt Text](https://github.com/damarwdsyh003/PBO-Polymorphisme/blob/master/Tugas%20Praktikum.png)
 
