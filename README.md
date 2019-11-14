@@ -6,7 +6,7 @@
 # Latihan 2.C
 Terjadi ERROR
 # Latihan 2.D
-![Alt Text}(https://github.com/damarwdsyh003/PBO-Polymorphisme/blob/master/Latihan%202.2.png)
+![Alt Text](https://github.com/damarwdsyh003/PBO-Polymorphisme/blob/master/Latihan%202.2.png)
 # Latihan 3
 ![Alt Text](https://github.com/damarwdsyh003/PBO-Polymorphisme/blob/master/Latihan%203.png)
 # Latihan 4
